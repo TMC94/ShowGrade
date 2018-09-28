@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538093193 source:c:\users\dad\desktop\showgrade\main.c
+	<stdio.h>
+	<stdlib.h>
+
